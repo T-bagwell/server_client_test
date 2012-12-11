@@ -17,6 +17,8 @@
 #define FILE_CONTEXT			2
 #define	ZECACHE_MAX_FILE_SIZE	1024*1024*2
 #define SORT_KEYNAME			"sort_for_keyname"
+
+
 struct field_value {
 	char		field[512];
 	char		value[MAX_SIZE_OF_VALUE_BUFFER];
