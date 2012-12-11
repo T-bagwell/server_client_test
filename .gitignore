@@ -15,3 +15,9 @@
 *.exe
 *.out
 *.app
+
+# Code read tool
+cscope.files
+*.cscope*
+*tags
+*TAGS*
